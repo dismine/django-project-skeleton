@@ -1,1 +1,2 @@
-
+This directory is used to provide our project wide static assets. Please refer to the Django
+documentation for more details. Settings documents the STATICFILES_DIRS-setting.
