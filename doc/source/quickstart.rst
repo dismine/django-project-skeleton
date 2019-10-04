@@ -12,8 +12,8 @@ Your project will look like this::
     │   ├── __init__.py
     │   ├── settings/
     │   │   ├── common.py
-    │   │   ├── dev.py
-    │   │   ├── djangodefault.py
+    │   │   ├── development.py
+    │   │   ├── i18n.py
     │   │   ├── __init__.py
     │   │   └── production.py
     │   ├── urls.py
@@ -38,6 +38,9 @@ Your project will look like this::
     ├── static/
     │   └── README
     └── templates/
+        ├── base.html
+        ├── core
+        │   └── login.html
         └── README
 
 See :ref:`label-project-structure` for a detailled description of this layout.

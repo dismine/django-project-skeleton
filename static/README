@@ -1,2 +1,2 @@
-This directory is used to provide our project wide static assets. Please refer to the Django
-documentation for more details. Settings documents the STATICFILES_DIRS-setting.
+This folder is used to store project-wide static assetts, i.e. JavaScript-files
+that are used in the project-wide templates.
